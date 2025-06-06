@@ -29,7 +29,11 @@ The [UPI Data Analyzer](https://upidataviz.streamlit.app/) provides an interacti
   - Daily spending patterns
 - Download your processed data as CSV for further analysis
 
-![UPI Data Analyzer Interface](https://raw.githubusercontent.com/ABoBo555/UPI-Data-Scrap-Viz/main/demo_images/app_interface.png)
+![upi_1](https://github.com/user-attachments/assets/338f24c7-7d48-48dd-bb99-7dad7e39b4a1)
+![upi_2](https://github.com/user-attachments/assets/34f3509b-3f3b-48ec-b7ef-e9f8b1fee8cf)
+
+
+(https://raw.githubusercontent.com/ABoBo555/UPI-Data-Scrap-Viz/main/demo_images/app_interface.png)
 
 No installation required - just visit the website and start analyzing your data! Your data remains private and is processed entirely in your browser session.
 
